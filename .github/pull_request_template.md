@@ -6,11 +6,11 @@
 
 ### Before
 
-`put a screenshot of test/behavior here`
+`put a screenshot of test/behavior before changes here`
 
 ### After
 
-`put a screenshot of test/behavior here`
+`put a screenshot of test/behavior after changes here`
 
 ## Coding Practices
 
